@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://octodex.github.com/images/yaktocat.png)
 
 1. Numbered
 2. List
