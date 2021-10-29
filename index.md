@@ -2,7 +2,10 @@
 layout: default
 ---
 
-![image](/assets/images/WordArt.png)
+<p align="center"">
+   <img src="/assets/images/WordArt.png" width="100%" />
+</p>
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
