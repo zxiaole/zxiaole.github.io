@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="center"">
+<p align="center">
    <img src="/assets/images/WordArt.png" width="100%" />
 </p>
 
