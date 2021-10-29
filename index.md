@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](/zxiaole.github.io/_img/Word Art.png)
+![image](/zxiaole.github.io/_img/WordArt.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
