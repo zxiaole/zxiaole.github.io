@@ -1,3 +1,7 @@
-remote_theme: pages-themes/dinky@v0.2.0
+title: Dinky theme
+description: Dinky is a red hot theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-dinky
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
